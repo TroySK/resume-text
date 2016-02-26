@@ -1,0 +1,304 @@
+{
+  "basics": {
+    "name": "Shirsendu 'Troy' Karmakar",
+    "label": "Engineer & Hacker",
+    "picture": "https://scontent.fdel1-1.fna.fbcdn.net/hphotos-xfp1/t31.0-8/325432_4163116070659_729661660_o.jpg",
+    "email": "troy@troysk.com",
+    "phone": "+91 7503455305",
+    "website": "https://www.troysk.com",
+    "summary": "Troy hails from the foothills of Darjeeling, India. While earning his degrees he started freelancing as a web-developer. He crafted solutions using Wordpress, Joomla!, Drupal and PHP. After earning his masters degree he joined Tata Consultancy Services in Mumbai, India and used Java to help launch one of India's first SaaS products. He jumped onto the SlideShare wagon, which in 2011 was racing fast on Ruby-on-Rails. At SlideShare, he wore multiple hats and HTTParty'd till SlideShare's acquition by LinkedIn. At LinkedIn, he focused on integration between different systems and technical stack. He also worked on analytics product which processed 1 billion events a day! Troy quit LinkedIn to work on his startups QREOH and Solidry. Both of which were shut down at some point as oxygen dried up. Since then, he's been consulting with multiple companies helping them build high performance web apps and mobile apps. Somewhere between, he became a digital nomad and is currently on the lookout for a tribe to join.",
+    "contact": {
+      "phone": "+91 7503455305",
+      "email": "troy@troysk.com"
+    },
+    "location": {
+      "address": "Bagdogra",
+      "city": "Darjeeling",
+      "countryCode": "IN",
+      "region": "West Bengal"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Shirsendu 'Troy' Karmakar",
+        "url": "https://linkedin.com/in/shirsendukarmakar"
+      },
+      {
+        "network": "AngelList",
+        "username": "troysk",
+        "url": "https://angel.co/troysk"
+      },
+      {
+        "network": "GitHub",
+        "username": "TroySK",
+        "url": "https://github.com/troysk"
+      },
+      {
+        "network": "Stack-Overflow",
+        "username": "troy-sk",
+        "url": "https://stackoverflow.com/users/810911/troy-sk"
+      },
+      {
+        "network": "Medium",
+        "username": "TroySK",
+        "url": "https://medium.com/@troysk"
+      },
+      {
+        "network": "Twitter",
+        "username": "troysk704",
+        "url": "https://twitter.com/troysk704"
+      },
+      {
+        "network": "Facebook",
+        "username": "Shirsendu.Karmakar",
+        "url": "https://facebook.com/shirsendu.karmakar"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "troysk",
+        "url": "https://soundcloud.com/troysk"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Systemic JIA Foundation",
+      "position": "Engineer",
+      "website": "http://systemicjia.org",
+      "startDate": "2015-12-01",
+      "endDate": "",
+      "summary": "Zeebra is a platform for rare diseases. By bringing rare disease patients together and sharing their data.",
+      "highlights": [
+        "Built the platform for collect data of patients",
+        "Optimized UX",
+        "Sole Engineer"
+      ]
+    },
+    {
+      "company": "Tripoto",
+      "position": "iCTO",
+      "website": "https://www.tripoto.com",
+      "startDate": "2015-09-01",
+      "endDate": "2015-11-30",
+      "summary": "Tripoto is a website to share itneries.",
+      "highlights": [
+        "Built the unified search experience with third party integrations and recommendations",
+        "Managed search optimizations",
+        "Conceptualized newsfeed engagement and interactions"
+      ]
+    },
+    {
+      "company": "FreshMonk",
+      "position": "Consultant",
+      "website": "http://www.freshmonk.com",
+      "startDate": "2015-06-01",
+      "endDate": "2015-07-30",
+      "summary": "FreshMonk - Zero investment T-Shirt selling platform",
+      "highlights": [
+        "Implemented the redesign of the product page"
+      ]
+    },
+    {
+      "company": "Modish Store",
+      "position": "Consultant",
+      "website": "http://www.modishstore.com",
+      "startDate": "2015-06-01",
+      "endDate": "2015-11-01",
+      "summary": "Modish Store sells exquisite handpicked furniture from across the world to its buyers in the USA.",
+      "highlights": [
+        "Built analytics report tracking system",
+        "Executed multiple A/B Tests to optimize designs"
+      ]
+    },
+    {
+      "company": "QREOH",
+      "position": "Founder",
+      "website": "https://www.qreoh.com",
+      "startDate": "2013-04-24",
+      "endDate": "2015-04-24",
+      "summary": "QREOH was a marketplace for independent designers.",
+      "highlights": [
+        "As a founder, worked on branding, customer relations and designer onboarding",
+        "Built a scalable marketplace platform using Ruby-on-Rails",
+        "Worked on marketing and ran multiple successful content marketing campaigns",
+        "Organized live events, cleaned toilets"
+      ]
+    },
+    {
+      "company": "Solidry",
+      "position": "Founder",
+      "website": "http://www.solidry.com",
+      "startDate": "2013-06-20",
+      "endDate": "2014-10-31",
+      "summary": "Solidry was a 3D printing company.",
+      "highlights": [
+        "Conceptualized and built multiple 3D printers and 3D scanners",
+        "Built multiple e-commerce platforms using Ruby-on-Rails and Wordpress"
+      ]
+    },
+    {
+      "company": "LinkedIn",
+      "position": "Senior Software Engineer",
+      "website": "http://www.linkedin.com",
+      "startDate": "2012-05-03",
+      "endDate": "2014-04-17",
+      "summary": "LinkedIn is the world's largest professional network",
+      "highlights": [
+        "Integrated SlideShare to use LinkedIn identity",
+        "Built next generation analytics for authors of presentations",
+        "Upgraded Ruby and Rails from legacy versions"
+      ]
+    },
+    {
+      "company": "SourceEasy",
+      "position": "Consultant",
+      "website": "http://www.sourceeasy.com",
+      "startDate": "2013-11-01",
+      "endDate": "2014-03-31",
+      "summary": "SourceEasy APIs for manufacting",
+      "highlights": [
+        "Built version 1 of SourceEasy using Backbone and Ruby-on-Rails"
+      ]
+    },
+    {
+      "company": "SlideShare",
+      "position": "Software Engineer",
+      "website": "http://www.slideshare.net",
+      "startDate": "2011-04-04",
+      "endDate": "2012-05-03",
+      "summary": "SlideShare is the world's largetst professional content sharing network",
+      "highlights": [
+        "Worked on multiple projects to make presentations more accessible to everyone",
+        "Ran multiple A/B tests to optimize conversion funnels of SlideShare's PRO offerings",
+        "Performance optimizations on the frontend and backend"
+      ]
+    },
+    {
+      "company": "Tata Consutancy Services",
+      "position": "Assistant Systems Engineer",
+      "website": "http://www.tcs.com",
+      "startDate": "2009-11-30",
+      "endDate": "2011-03-27",
+      "summary": "Tata Consutancy Services is one of the world's top software services company",
+      "highlights": [
+        "Worked on multiple multi-tanent apps for TCS's SaaS offering TCS iON",
+        "Hacked Java Struts to work via AJAX on a legacy apps improving the UX"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "position": "Developer",
+      "website": "https://wwww.troysk.com",
+      "startDate": "2004-03-15",
+      "endDate": "2009-12-02",
+      "summary": "As a freelancer I worked on over 100 projects",
+      "highlights": [
+        "Built sites using Wordpress, Joomla, Drupal and PHP",
+        "Helped setting up local office networks and FM radio networks"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of North Bengal",
+      "area": "Master of Computer application",
+      "studyType": "Master",
+      "startDate": "2006-06-01",
+      "endDate": "2009-06-01"
+    },
+    {
+      "institution": "Siliguri College",
+      "area": "Bachelor of Computer application",
+      "studyType": "Bachelor",
+      "startDate": "2003-06-01",
+      "endDate": "2006-05-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "Intermediate",
+      "keywords": [
+        "Ruby",
+        "Ruby-on-Rails",
+        "Sinatra",
+        "Microservices",
+        "Bootstrap",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "Hadoop",
+        "HBase",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Intermediate",
+      "keywords": [
+        "React Native",
+        "Ionic Platform"
+      ]
+    },
+    {
+      "name": "User Experience",
+      "level": "Intermediate",
+      "keywords": [
+        "Photoshop",
+        "Sketch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "French",
+      "fluency": "Reading comprehension"
+    },
+    {
+      "language": "Nepali",
+      "fluency": "Listening comprehension"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Psytrance",
+        "Western Classical",
+        "Sufi"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "keywords": [
+        "ESP8266",
+        "Arduino",
+        "Raspberry Pi",
+        "Home Automation"
+      ]
+    },
+    {
+      "name": "Travelling",
+      "keywords": [
+        "Digital Nomad",
+        "South-East Asia"
+      ]
+    }
+  ]
+}
