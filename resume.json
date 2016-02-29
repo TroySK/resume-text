@@ -121,7 +121,7 @@
         "As a founder, worked on branding, customer relations and designer onboarding",
         "Built a scalable marketplace platform using Ruby-on-Rails",
         "Worked on marketing and ran multiple successful content marketing campaigns",
-        "Organized live events, cleaned toilets"
+        "Organized live events"
       ]
     },
     {
@@ -219,6 +219,7 @@
       "name": "Web",
       "level": "Intermediate",
       "keywords": [
+        "JavaScript",
         "Ruby",
         "Ruby-on-Rails",
         "Sinatra",
@@ -232,8 +233,7 @@
         "HBase",
         "PHP",
         "HTML",
-        "CSS",
-        "JavaScript"
+        "CSS"
       ]
     },
     {
