@@ -2,11 +2,11 @@
   "basics": {
     "name": "Shirsendu 'Troy' Karmakar",
     "label": "Engineer & Hacker",
-    "picture": "https://scontent.fdel1-1.fna.fbcdn.net/hphotos-xfp1/t31.0-8/325432_4163116070659_729661660_o.jpg",
+    "picture": "troysk.jpg",
     "email": "troy@troysk.com",
     "phone": "+91 7503455305",
     "website": "https://www.troysk.com",
-    "summary": "Troy hails from the foothills of Darjeeling, India. While earning his degrees he started freelancing as a web-developer. He crafted solutions using Wordpress, Joomla!, Drupal and PHP. After earning his masters degree he joined Tata Consultancy Services in Mumbai, India and used Java to help launch one of India's first SaaS products. He jumped onto the SlideShare wagon, which in 2011 was racing fast on Ruby-on-Rails. At SlideShare, he wore multiple hats and HTTParty'd till SlideShare's acquition by LinkedIn. At LinkedIn, he focused on integration between different systems and technical stack. He also worked on analytics product which processed 1 billion events a day! Troy quit LinkedIn to work on his startups QREOH and Solidry. Both of which were shut down at some point as oxygen dried up. Since then, he's been consulting with multiple companies helping them build high performance web apps and mobile apps. Somewhere between, he became a digital nomad and is currently on the lookout for a tribe to join.",
+    "summary": "Troy hails from the foothills of Darjeeling, India. While earning his degrees he started freelancing as a web-developer. He crafted solutions using Wordpress, Joomla!, Drupal and PHP. After earning his masters degree he joined Tata Consultancy Services in Mumbai, India and used Java to help launch one of India's first SaaS products. He jumped onto the SlideShare wagon, which in 2011 was racing fast on Ruby-on-Rails. At SlideShare, he wore multiple hats and HTTParty'd till SlideShare's acquition by LinkedIn. At LinkedIn, he focused on integration between different systems and technical stack. He also worked on analytics product which processed 1 billion events a day! Troy quit LinkedIn to work on his startups QREOH and Solidry. Both of which were shut down. Since then, he's been consulting with multiple companies remotely; helping them build high performance web apps and mobile apps.",
     "contact": {
       "phone": "+91 7503455305",
       "email": "troy@troysk.com"
@@ -62,11 +62,37 @@
   },
   "work": [
     {
+      "company": "UsabilityHub",
+      "position": "Engineer",
+      "website": "https://usabilityhub.com",
+      "startDate": "2017-11-01",
+      "endDate": "2018-06-08",
+      "summary": "UsabilityHub is a usability testing platform. Thousands of designers use it everyday to test their designs.",
+      "highlights": [
+        "Worked on building out the platform features",
+        "Rails, React, Redux were the tools used",
+        "Built multiple dashboards"
+      ]
+    },
+    {
+      "company": "MapleNest",
+      "position": "Engineer",
+      "website": "https://www.maplenest.com",
+      "startDate": "2016-11-01",
+      "endDate": "2017-10-14",
+      "summary": "MapleNest sells home decor across the US and Canada. The focus is on handcrafted products.",
+      "highlights": [
+        "Built a hybrid platform based on Shopify APIs and Rails",
+        "Build fulfillment automation system which can work with vendor pipelines",
+        "Engineer #1"
+      ]
+    },
+    {
       "company": "Systemic JIA Foundation",
       "position": "Engineer",
       "website": "http://systemicjia.org",
       "startDate": "2015-12-01",
-      "endDate": "",
+      "endDate": "2016-11-01",
       "summary": "Zeebra is a platform for rare diseases. By bringing rare disease patients together and sharing their data.",
       "highlights": [
         "Built the platform for collect data of patients",
