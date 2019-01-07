@@ -6,7 +6,7 @@
     "email": "troy@troysk.com",
     "phone": "+91 7503455305",
     "website": "https://www.troysk.com",
-    "summary": "I'm an engineer who pairs hands on knowledge of engineering and UX design. Currently consulting with startups improving their performanc and scalability.\r\nI build solutions in languages such as Ruby, JavaScript and extensive expertise in product and project development methods. Using these knowledge and tools I'm able to help people and organizations improve their processes and develop systems.\r\nPart of the acquisition of SlideShare by LinkedIn.\r\n12 years of experience in building web products. Working remotely for 3+ years with companies from the US to Australia.",
+    "summary": "I'm an engineer who pairs hands on knowledge of engineering and UX design. Currently consulting with startups improving their performance and scalability.\r\nI build solutions in languages such as Ruby, JavaScript and extensive expertise in product and project development methods. Using these knowledge and tools I'm able to help people and organizations improve their processes and develop systems.\r\nPart of the acquisition of SlideShare by LinkedIn.\r\n12 years of experience in building web products. Working remotely for 3+ years with companies from the US to Australia.",
     "contact": {
       "phone": "+91 7503455305",
       "email": "troy@troysk.com"
@@ -60,7 +60,7 @@
   },
   "work": [
     {
-      "company": "Multiple Companies",
+      "name": "Multiple Companies",
       "position": "Consultant",
       "startDate": "2019-01-01",
       "summary": "Consulting with technology companies working to scale up.",
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "company": "UsabilityHub",
+      "name": "UsabilityHub",
       "position": "Engineer",
       "website": "https://usabilityhub.com",
       "startDate": "2017-11-01",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "company": "MapleNest",
+      "name": "MapleNest",
       "position": "Engineer #1",
       "website": "https://www.maplenest.com",
       "startDate": "2016-11-01",
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "company": "Systemic JIA Foundation",
+      "name": "Systemic JIA Foundation",
       "position": "Engineer",
       "website": "http://systemicjia.org",
       "startDate": "2015-12-01",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "company": "Tripoto",
+      "name": "Tripoto",
       "position": "iCTO",
       "website": "https://www.tripoto.com",
       "startDate": "2015-09-01",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "company": "FreshMonk",
+      "name": "FreshMonk",
       "position": "Consultant",
       "website": "http://www.freshmonk.com",
       "startDate": "2015-06-01",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "company": "Modish Store",
+      "name": "Modish Store",
       "position": "Consultant",
       "website": "http://www.modishstore.com",
       "startDate": "2015-06-01",
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "company": "QREOH",
+      "name": "QREOH",
       "position": "Founder",
       "website": "https://www.qreoh.com",
       "startDate": "2013-04-24",
@@ -160,7 +160,7 @@
       ]
     },
     {
-      "company": "Solidry",
+      "name": "Solidry",
       "position": "Founder",
       "website": "http://www.solidry.com",
       "startDate": "2013-06-20",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "company": "LinkedIn",
+      "name": "LinkedIn",
       "position": "Senior Software Engineer",
       "website": "http://www.linkedin.com",
       "startDate": "2012-05-03",
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "company": "SourceEasy",
+      "name": "SourceEasy",
       "position": "Consultant",
       "website": "http://www.sourceeasy.com",
       "startDate": "2013-11-01",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "company": "SlideShare",
+      "name": "SlideShare",
       "position": "Software Engineer",
       "website": "http://www.slideshare.net",
       "startDate": "2011-04-04",
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "company": "Tata Consutancy Services",
+      "name": "Tata Consutancy Services",
       "position": "Assistant Systems Engineer",
       "website": "http://www.tcs.com",
       "startDate": "2009-11-30",
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "company": "Freelancer",
+      "name": "Freelancer",
       "position": "Developer",
       "website": "https://wwww.troysk.com",
       "startDate": "2004-03-15",
